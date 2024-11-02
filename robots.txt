@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ehefeedi.github.io/GBm/sitemap_index.txt
+Sitemap: https://ehefeedi.github.io/HOh/sitemap_index.txt
+Sitemap: https://ehefeedi.github.io/bCd/sitemap_index.txt
+Sitemap: https://ehefeedi.github.io/wtT/sitemap_index.txt
